@@ -972,7 +972,7 @@
 		<dict>
 			<key>AppleEvent</key>
 			<string>Builtin</string>
-			<key>CustomDelays</key>
+			<false/>
 			<string>Auto</string>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
